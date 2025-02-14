@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/nfdi4memory-b2b-session-topic-modeling/HEAD){:target="_blank"}
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/nfdi4memory-b2b-session-topic-modeling/HEAD)
 
 # Historische Quellen automatisiert erschließen: Einführung in die digitale Textanalyse mit Topic Modeling
 In diesem Repositorium finden Sie die Jupyter Notebooks, die wir in der NFDI4Memory From Books to Bytes-Session 'Historische Quellen automatisiert erschließen: Einführung in die digitale Textanalyse mit Topic Modeling' am 21.02.2025 nutzen.
@@ -16,7 +16,7 @@ Folgende Daten finden in der Hands-on Session Verwendung:
 ## 🚀 Jupyter Notebooks starten 
 Wir arbeiten in der Hands-on Session mit einem externen webbasierten Tool (d.h. im Browser), um Python-Code ausführen zu lassen. Eine lokale Installation von Python auf Ihrer Maschine ist daher nicht notwendig. Allerdings benötigen Sie eine stabile Internetverbindung, um die Notebooks bearbeiten zu können. 
 
-Um die im Repo liegenden Notebooks zu starten, klicken Sie oben oder hier auf den Banner [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/nfdi4memory-b2b-session-topic-modeling/HEAD){:target="_blank"}. Dies startet eine JupyterLab-Session im Browser mit den Notebooks aus dem Repositorium. Dafür wird intern das Tool *Binder* verwendet. Der Build-Prozess kann mitunter etwas dauern. 
+Um die im Repo liegenden Notebooks zu starten, klicken Sie oben oder hier auf den Banner [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/nfdi4memory-b2b-session-topic-modeling/HEAD). Dies startet eine JupyterLab-Session im Browser mit den Notebooks aus dem Repositorium. Dafür wird intern das Tool *Binder* verwendet. Der Build-Prozess kann mitunter etwas dauern. 
 
 ## 💾 Jupyter Notebooks speichern 
 Mit MyBinder werden Ihre bearbeiteten Notebooks nicht automatisch gespeichert. Sie können diese entweder über das kleine Wolken-Icon im Browser-Storage sichern und beim nächsten Start wieder aufrufen (⚠️Dies funktioniert nur solange, wie Sie den aktiven Tab nicht schließen und Ihre Browserdaten in den Einstellungen nicht löschen). Wir empfehlen, um Datenverlust zu vermeiden, die von Ihnen bearbeiteten Notebooks vor Schließen des Browserfensters lokal auf Ihrem Rechner zu sichern. Sie können diese jederzeit im JupyterLab wieder hochladen.
